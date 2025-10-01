@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Conda
+*.yml
+
+# Data
+Dataset/DERM7PT/images/
+
+# OS
+.DS_Store
+Thumbs.db
