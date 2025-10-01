@@ -12,3 +12,14 @@ Dataset/DERM7PT/images/
 # OS
 .DS_Store
 Thumbs.db
+# Office temporary files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Misc temp files
+*.tmp
+tatus
+
+# Jupyter Notebook autosaves
+*.ipynb_checkpoints
