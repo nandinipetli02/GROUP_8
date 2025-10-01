@@ -4,7 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Conda
-*.yml
+*.lock.yml
 
 # Data
 Dataset/DERM7PT/images/
