@@ -1,25 +1,5 @@
-# Python
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-
-# Conda
-*.lock.yml
-
-# Data
-Dataset/DERM7PT/images/
-
-# OS
+/.ipynb_checkpoints
+__pycache__
+*.pyc
+.vscode
 .DS_Store
-Thumbs.db
-# Office temporary files
-~$*.pptx
-~$*.docx
-~$*.xlsx
-
-# Misc temp files
-*.tmp
-tatus
-
-# Jupyter Notebook autosaves
-*.ipynb_checkpoints
